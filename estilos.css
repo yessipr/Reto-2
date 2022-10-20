@@ -1,0 +1,22 @@
+.Biografia{
+    border : 1px solid purple;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 805px;
+    margin-left: 2px;
+    background-color:lightsalmon;
+
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+    background-color: palevioletred;
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+    background-color: palevioletred; 
+}
+div{
+    text-align: center;
+}
